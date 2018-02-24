@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/CrystalsBackground.jpg");
+}
+
+.col {
+	text-align: center;
+}
+
+.col-4 {
+	text-align: center;
+}
